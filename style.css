@@ -2,7 +2,24 @@ div{
     height: 700px;
     background-image: linear-gradient(to bottom, rgb(130, 200, 131) ,transparent);
 }
-p{
-    height: 400px;
-    background-image: radial-gradient( circle ,#1082af , #63c18b);
+.items{
+    text-align: center;
+    padding-top: 250px;
+    text-transform: uppercase;
+    color: #1c3a29;
+}
+img{
+    border-radius: 50px;
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 50px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #11542e;
+    color: aliceblue;
+}
+.login{
+    background-color: darkgreen;
 }
